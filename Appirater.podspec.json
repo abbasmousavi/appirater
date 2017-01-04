@@ -19,6 +19,9 @@
       "*.lproj"
     ]
   },
+  "dependencies": {
+    "SCLAlertView-Objective-C": [
+  ]},
   "requires_arc": true,
   "frameworks": [
     "CFNetwork",
